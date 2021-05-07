@@ -5,6 +5,7 @@
       "name": "Ron Chew",
       "artist": "Software Developer, Technology Evagenlist",
       "id": "root",
+      "details": "I'm a Senior at Carnegie Mellon University, studying Information Systems and Human-Computer Interactions",
       "playcount": 12345678
     },
     {
@@ -12,6 +13,7 @@
       "name": "Developer Relations",
       "artist": "I love reaching out and helping other developers",
       "id": "devrel",
+      "details": "",
       "playcount": 1234567
     },
     {
@@ -19,6 +21,7 @@
       "name": "Web and Mobile Apps",
       "artist": "Fullstack Development with Modern Frameworks",
       "id": "apps",
+      "details": "",
       "playcount": 1234567
     },
     {
@@ -26,6 +29,7 @@
       "name": "AR, VR & MR",
       "artist": "Immersive Media across Extended Realities",
       "id": "xr",
+      "details": "",
       "playcount": 1234567
     },
     {
@@ -33,6 +37,7 @@
       "name": "Installations",
       "artist": "Interactive and Physical Art/Performances",
       "id": "inst",
+      "details": "",
       "playcount": 1234567
     },
     {
@@ -40,6 +45,7 @@
       "name": "Print Art",
       "artist": "Simple Illustrations and Sketches",
       "id": "art",
+      "details": "",
       "playcount": 1234567
     },
     {
@@ -47,6 +53,7 @@
       "name": "Baking",
       "artist": "Sweet treats for my friends",
       "id": "bakes",
+      "details": "",
       "playcount": 1234567
     },
     {
@@ -55,6 +62,7 @@
       "name": "Microsoft Student Partners Singapore",
       "artist": "2012",
       "id": "devrel_msp",
+      "details": "The Microsoft Student Partners are a global group of student technology enthusiasts, and they are absolutely nuts about anything Microsoft.",
       "playcount": 12345
     },
     {
@@ -62,6 +70,7 @@
       "name": "Windows UCrew",
       "artist": "2013",
       "id": "devrel_ucrew",
+      "details": "Our team helped students and faculty to transisition to Windows 8 when it was released.",
       "playcount": 12345
     },
     {
@@ -69,6 +78,7 @@
       "name": "MSP Summit 2014",
       "artist": "2014",
       "id": "devrel_summit",
+      "details": "MSP is a global organization, and I was really lucky to have met MSPs not only from Singapore but from other countries at the first Worldwide MSP Summit in Seattle 2014.",
       "playcount": 1
     },
     {
@@ -76,6 +86,7 @@
       "name": "Satya Nadella Visits Singapore",
       "artist": "2015",
       "id": "devrel_satya",
+      "details": "I'll always remember the opportunity I had to host Mr. Satya Nadella, CEO of Microsoft Corp! Here he is with other members of the developer community at Microsoft Dev Day 2015 in Singapore.",
       "playcount": 1
     },
     {
@@ -83,6 +94,7 @@
       "name": "Everyone can Code, even the President of Singapore",
       "artist": "2016",
       "id": "devrel_president",
+      "details": "While on the job, I got to meet some great people too, like Dr. Tony Tan, President of Singapore!",
       "playcount": 1
     },
     {
@@ -90,6 +102,7 @@
       "name": "Prometheus Night Light",
       "artist": "2019",
       "id": "inst_light",
+      "details": "The Project Prometheus Night Light is a smart lamp that uses integrated capacitive and orientation sensors on an Arduino platform. The light provides a natural and easy way control personalized lighting that helps you to sleep better. Just simply twist or flip the lamp.",
       "playcount": 1
     },
     {
@@ -97,6 +110,7 @@
       "name": "Touchspace Desk",
       "artist": "2019",
       "id": "inst_desk",
+      "details": "I've always dreamed of having a giant touchscreen table to read and write off, so I decided to make one! I put together a Dell conference room display and mounted it to a table with a VESA mount so that it could be tilted at an angle.",
       "playcount": 1
     },
     {
@@ -104,20 +118,23 @@
       "name": "Life Requires your Input",
       "artist": "2019",
       "id": "inst_life",
+      "details": "A 6-foot tall lightswitch stands in front of you. This is life, and Life Requires your Input. What happens when you lift up the lightswitch – it’s heavy and needs both hands. A tiny LED comes on and there is the faintest buzz, but you can't see it. Is all this effort necessary?",
       "playcount": 1
     },
     {
       "match": 0.191464,
-      "name": "Spooky Staircase",
+      "name": "Staircase Encounters",
       "artist": "2019",
       "id": "inst_staircase",
+      "details": "As Hunt Library guests enter the main stairwell, they are greeted with a quiet hum. Something’s changed but they can’t really see what. The hum changes as they walk along the staircase – they are amused but still curious. The sound becomes lower in pitch as they walk down to the basement. Someone else enters the stairwell and notices the noise too – there is brief eye contact with someone else on the staircase – did they hear that too?",
       "playcount": 1
     },
     {
       "match": 0.190277,
-      "name": "Human Stories",
+      "name": "The Human Codifier",
       "artist": "2019",
       "id": "inst_human",
+      "details": "A large silver prism stands in the corner, almost as tall as a human – light seems to emanate out of it as it reflects your presence – projecting something onto the facing wall. The projection, along with a set of digital footprints prompt you to stand in front of it. The display reacts to you – and starts to scan your body as it attempts to digitize and codify your body. It seems to be applying something to your body, a story! ",
       "playcount": 12345
     },
     {
@@ -126,6 +143,7 @@
       "name": "CrashFacts",
       "artist": "2019",
       "id": "apps_crashfacts",
+      "details": "My TartanHacks team built a React progressive web app that used Microsoft Azure's Cognitive Services for live speech-to-text to transcribe what you are hearing, it then uses text analysis to find the complex terms that are being thrown around and give quick definitions that are being used.",
       "playcount": 12345
     },
     {
@@ -133,6 +151,7 @@
       "name": "CrowdOps App",
       "artist": "2015",
       "id": "apps_crowdops",
+      "details": "CrowdOps is a mobile app that allows communities to collect opinions through location-based surveys. We use the GPS on your phone to ensure that you are in the right place to answer questions.",
       "playcount": 12345
     },
     {
@@ -140,6 +159,7 @@
       "name": "Food from the Heart Portal",
       "artist": "2014",
       "id": "apps_ffth",
+      "details": "Food From The Heart, a foodbank charity, was looking for a specialized tool that would help them organize and monitor their donated food stock. I built a feature that would analyze their supply, and highlight any shortages, surplus or expiry.",
       "playcount": 1
     },
     {
@@ -147,6 +167,7 @@
       "name": "MVA Campus War Website",
       "artist": "2014",
       "id": "apps_mva",
+      "details": "At Microsoft Singapore, we organized a nationwide learning campaign called the Microsoft Virtual Academy Campus War, where students from different campuses competed to see which school would complete the most number of online courses! In order to help students register their entries, I put together a website where they could submit and verify their screenshots.",
       "playcount": 1
     },
     {
@@ -154,6 +175,7 @@
       "name": "Nanyang Polytechnic Information Kiosk",
       "artist": "Toto",
       "id": "apps_nyp",
+      "details": "While working as a Development Technologist at Nanyang Polytechnic, I built an information kiosk that helped guests register themselves, find staff, and get help from administrators in the office. It's still in use today, should you visit the School of Information Technology!",
       "playcount": 1
     },
     {
@@ -161,6 +183,7 @@
       "name": "Chocolate Lava Cakes",
       "artist": "2014",
       "id": "bakes_lava",
+      "details": "Baking cakes and cookies is a hobby I indulge in on a regular basis. My favorite dessert is the Chocolate Lava Cake – I baked dozens in order to perfect it!",
       "playcount": 1
     },
     {
@@ -168,6 +191,7 @@
       "name": "Teaching a Baking Workshop",
       "artist": "2015",
       "id": "bakes_workshop",
+      "details": "Some of my lecturers and I got together and organized a cooking demonstration in order to raise funds for charity. I was so glad to be able to share my perfected recipe with the school faculty! Being on the teaching side of the classroom is quite a different experience.",
       "playcount": 1
     },
     {
@@ -175,6 +199,7 @@
       "name": "Decorating an Orange Sponge",
       "artist": "2013",
       "id": "bakes_decoration",
+      "details": "Want to watch me spend an awfully long amount of time decorating a cake? Now you can!",
       "playcount": 1
     },
     {
@@ -182,6 +207,7 @@
       "name": "Cheescake Bites",
       "artist": "2014",
       "id": "bakes_cheesecake",
+      "details": "Cheesecake Bites with Peach Jelly Bits, Digestive Biscuit Base",
       "playcount": 1
     },
     {
@@ -189,6 +215,7 @@
       "name": "Pavlova",
       "artist": "2015",
       "id": "bakes_pavlova",
+      "details": "Baked Pavlova Meringue topped with Luscious Cream and Fresh Berries",
       "playcount": 1
     },
     {
@@ -196,6 +223,7 @@
       "name": "Peanut Butter Cheesecake",
       "artist": "2020",
       "id": "bakes_peanutbutter",
+      "details": "Reese's as a cheesecake - enough said.",
       "playcount": 1
     },
     {
@@ -204,6 +232,7 @@
       "name": "HelloHolo - Mixed Reality Solutions Agency",
       "artist": "2016",
       "id": "xr_helloholo",
+      "details": "In 2016, I co-founded HelloHolo in Singapore with my Co-Founder Cheng Heng, with the objective of bringing the then-unavailable Microsoft HoloLens to local companies and organizations.",
       "playcount": 12345
     },
     {
@@ -211,6 +240,7 @@
       "name": "Project Insight",
       "artist": "2018",
       "id": "xr_insight",
+      "details": "One of our largest efforts was Project INSIGHT, a collaboration with the National Museum of Singapore.",
       "playcount": 12345
     },
     {
@@ -218,6 +248,7 @@
       "name": "Interactive MR Wall",
       "artist": "2017",
       "id": "xr_wall",
+      "details": "One of our multiplayer projects for PwC, which is a mixed-reality tie-in to their physical Legacy Wall, celebrating their new office at Marina One.",
       "playcount": 1
     },
     {
@@ -225,6 +256,7 @@
       "name": "Smart Coal Mine Demo",
       "artist": "2017",
       "id": "xr_mine",
+      "details": "One of our demo showcase pieces, which uses multiplayer holograms to quickly convey situational information for an operations manager in emergencies.",
       "playcount": 1
     },
     {
@@ -232,6 +264,7 @@
       "name": "Picnic Panic VR Game",
       "artist": "2019",
       "id": "xr_picnic",
+      "details": "<iframe width=\"200\" height=\"100\" src=\"https://www.youtube.com/embed/E8zspceO80o?autoplay=1&modestbranding=1&autohide=1&showinfo=0&controls=0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></span>",
       "playcount": 12345
     },
     {
@@ -239,6 +272,7 @@
       "name": "PowerPoint is for Posters",
       "artist": "2012",
       "id": "art_ppt",
+      "details": "Ah, the good old days of designing posters in PowerPoint. It was a simple start, but I still really enjoyed it! Here's one of an event poster for a Hackathon. It was information dense, but I tried to use a tree to split up the three sections of information (get it?)",
       "playcount": 1
     },
     {
@@ -246,6 +280,7 @@
       "name": "Futura Type Poster",
       "artist": "2019",
       "id": "art_type",
+      "details": "To learn about Type and Hierarchy, we created a type poster. My assigned font was Futura and I decided to design my poster around its geometry and storied past. Determining the layout and size of elements was my biggest learning here",
       "playcount": 1
     },
     {
@@ -253,6 +288,7 @@
       "name": "Book Covers for The Expanse",
       "artist": "2019",
       "id": "art_expansebook",
+      "details": "To understand how shapes & colors affect compositions and communication, and I re-designed the covers of 3 books from The Expanse series. I'm a personal fan of the TV Series and wanted to come up with a design that was a departure from the traditional sci-fi book art style.",
       "playcount": 12345
     },
     {
@@ -260,6 +296,7 @@
       "name": "Ingredients You'll Need Booklet",
       "artist": "2019",
       "id": "art_ingredients",
+      "details": "To apply concepts of grid and layout for print media, I designed a simple booklet about my passion in baking. The booklet distills the essential facts about baking ingredients in a simple yet whimsical format.",
       "playcount": 1
     },
     {
@@ -267,6 +304,7 @@
       "name": "Fabric Wallpapers",
       "artist": "2010",
       "id": "art_fabric",
+      "details": "One of my earliest experiments was to make desktop wallpapers inspired by actual fabric materials.",
       "playcount": 1
     },
     {
@@ -274,6 +312,7 @@
       "name": "Compositions of Squares",
       "artist": "2019",
       "id": "art_squares",
+      "details": "In one of my first exercises, I practiced the Gestalt Principles of simplicity by creating compositions to express different words, but only with simple black squares.",
       "playcount": 1
     }
   ],

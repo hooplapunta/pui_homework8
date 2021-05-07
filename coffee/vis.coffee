@@ -370,6 +370,8 @@ Network = () ->
     node.on("mouseover", showDetails)
       .on("mouseout", hideDetails)
 
+    node.on("click", showPopup)
+
     node.exit().remove()
 
   # enter/exit display for links
@@ -445,6 +447,16 @@ Network = () ->
   # particular node.
   strokeFor = (d) ->
     d3.rgb(nodeColors(d.artist)).darker().toString()
+
+  # Show more details when clicked
+  showPopup = (d, i) ->
+    content = '<p class="main">' + d.name + '</span></p>'
+    content += '<hr class="tooltip-hr">'
+    content += '<p class="main">' + d.artist + '</p>'
+    content += '<hr class="tooltip-hr">'
+    content += '<p class="main">' + d.details + '</p>'
+    tooltip.showTooltip(content,d3.event)
+
 
   # Mouseover tooltip function
   showDetails = (d,i) ->

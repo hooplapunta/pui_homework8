@@ -27,7 +27,7 @@
 
 <body>
 
-  <div id="container" class="container">
+  <div id="container-x" class="container-fluid">
     <header>
       <h1>Ron Chew's Portfolio Map</h1>
       <p>Explore the Portfolio of Ron Chew as an interconnected map. Portfolio Projects are grouped by year or by type.
@@ -35,7 +35,7 @@
     </header>
 
     <!-- Selection Controls -->
-    <div id="song_selection" class="control">
+    <div id="song_selection" class="control hidden">
       <h3>Project Type</h3>
       <select id="song_select">
         <option value="projects.json">All Projects</option>
@@ -62,11 +62,6 @@
         <a id="popular">Major Projects</a>
         <a id="obscure">Minor Projects</a>
       </div>
-      <!-- <div id="sorts" class="control">
-        <h3>Sort</h3>
-        <a id="songs" class="active">Songs</a>
-        <a id="links">Links</a>
-      </div> -->
       <div id="search_section" class="control">
         <form id="search_form" action="" method="post">
           <p class="search_title">Search <input type="text" class="text-input" id="search" value="" /></p>
